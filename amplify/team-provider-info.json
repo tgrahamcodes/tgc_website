@@ -10,6 +10,12 @@
       "StackName": "amplify-rpa-dev-8da09",
       "StackId": "arn:aws:cloudformation:us-west-1:851725582356:stack/amplify-rpa-dev-8da09/39088d50-34ed-11ef-80e4-064db4d58089",
       "AmplifyAppId": "d1guvnqx225x4r"
+    },
+    "categories": {
+      "auth": {
+        "rpafe293447": {},
+        "userPoolGroups": {}
+      }
     }
   }
 }
